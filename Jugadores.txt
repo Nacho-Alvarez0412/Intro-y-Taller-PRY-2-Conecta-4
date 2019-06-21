@@ -1,0 +1,1 @@
+[['juan', 4], ['luis', 3], ['ignacio', 1], ['nacho', 1], ['bbb', 0], ['ggg', 0], ['j', 0], ['d', 0], ['felipe', 0], ['sonia', 0], ['joss', 0]]
